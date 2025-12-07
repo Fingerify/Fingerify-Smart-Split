@@ -23,7 +23,7 @@ This method allows you to subscribe to the rules list via URL, enabling automati
     * Set the **Rule List Format** checkbox to **Switchy**.
     * In the **Rule List URL** box, precisely copy and paste the following link:
 
-> `https://raw.githubusercontent.com/fingerify/Fingerify-Smart-Split-ZeroOmega-Config/main/ZeroOmega_Rule_List_Config.sorl`
+> `https://raw.githubusercontent.com/fingerify/Fingerify-Smart-Split/main/ZeroOmega_Rule_List_Config.sorl`
 
 3.  Click the **Download Profile Now** button. (A green `Rule list downloaded` message should appear).
 
@@ -74,7 +74,7 @@ Maintained by **[Fingerify Team](https://github.com/fingerify)**
     * تیک گزینه **Rule List Format** را روی حالت **Switchy** بگذارید.
     * در کادر **Rule List URL**، لینک زیر را دقیقاً کپی و وارد کنید:
 
-> `https://raw.githubusercontent.com/fingerify/Fingerify-Smart-Split-ZeroOmega-Config/main/ZeroOmega_Rule_List_Config.sorl`
+> `https://raw.githubusercontent.com/fingerify/Fingerify-Smart-Split/main/ZeroOmega_Rule_List_Config.sorl`
 
 3.  روی دکمه **Download Profile Now** کلیک کنید. (باید پیام سبز رنگ `Rule list downloaded` ظاهر شود).
 
